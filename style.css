@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 90px;
+    margin-top: 200px;
+}
